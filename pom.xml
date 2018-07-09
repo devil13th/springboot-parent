@@ -17,5 +17,6 @@
 
 	<modules>
 		<module>springboot-websocket</module>
+		<module>springboot-webjars</module>
 	</modules>
 </project>
